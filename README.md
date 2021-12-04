@@ -1,4 +1,4 @@
-## **Major Project**
+## **Nepali Music Recommendation System by Genre Classification**
 
 ### [Tutorial](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
 
